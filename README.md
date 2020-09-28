@@ -1,4 +1,4 @@
-# Wizards-and-Knights
+# Wizards and Knights
 
 Find your way around the depths of these caves. Do you have the wits and strength to get to the end? Beware of the monsters and traps though. 
 <br>
@@ -15,3 +15,8 @@ Find your way around the depths of these caves. Do you have the wits and strengt
 </ul>
 
 ## Submission
+
+## Contributors
+<ul>
+  <li>[Yash Bhartia] (https://github.com/YashBhartia00)</li>
+</ul>
