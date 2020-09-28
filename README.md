@@ -18,5 +18,5 @@ Find your way around the depths of these caves. Do you have the wits and strengt
 
 ## Contributors
 <ul>
-  <li>[Yash Bhartia] (https://github.com/YashBhartia00)</li>
+  <li> <a href="https://github.com/YashBhartia00">Yash Bhartia</a> </li>
 </ul>
